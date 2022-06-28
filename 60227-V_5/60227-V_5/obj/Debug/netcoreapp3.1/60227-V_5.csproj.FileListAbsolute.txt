@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\60227-V_5\60227-V_5\bin\Debug\netcoreapp3.1\60227-V_5.exe
+C:\Users\user\Desktop\60227-V_5\60227-V_5\bin\Debug\netcoreapp3.1\60227-V_5.deps.json
+C:\Users\user\Desktop\60227-V_5\60227-V_5\bin\Debug\netcoreapp3.1\60227-V_5.runtimeconfig.json
+C:\Users\user\Desktop\60227-V_5\60227-V_5\bin\Debug\netcoreapp3.1\60227-V_5.runtimeconfig.dev.json
+C:\Users\user\Desktop\60227-V_5\60227-V_5\bin\Debug\netcoreapp3.1\60227-V_5.dll
+C:\Users\user\Desktop\60227-V_5\60227-V_5\bin\Debug\netcoreapp3.1\60227-V_5.pdb
+C:\Users\user\Desktop\60227-V_5\60227-V_5\obj\Debug\netcoreapp3.1\60227-V_5.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\60227-V_5\60227-V_5\obj\Debug\netcoreapp3.1\_60227_V_5.Properties.Resources.resources
+C:\Users\user\Desktop\60227-V_5\60227-V_5\obj\Debug\netcoreapp3.1\60227-V_5.csproj.GenerateResource.cache
+C:\Users\user\Desktop\60227-V_5\60227-V_5\obj\Debug\netcoreapp3.1\60227-V_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\60227-V_5\60227-V_5\obj\Debug\netcoreapp3.1\60227-V_5.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\60227-V_5\60227-V_5\obj\Debug\netcoreapp3.1\60227-V_5.AssemblyInfo.cs
+C:\Users\user\Desktop\60227-V_5\60227-V_5\obj\Debug\netcoreapp3.1\60227-V_5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\60227-V_5\60227-V_5\obj\Debug\netcoreapp3.1\60227-V_5.dll
+C:\Users\user\Desktop\60227-V_5\60227-V_5\obj\Debug\netcoreapp3.1\60227-V_5.pdb
+C:\Users\user\Desktop\60227-V_5\60227-V_5\obj\Debug\netcoreapp3.1\60227-V_5.genruntimeconfig.cache
+C:\Users\user\Desktop\60227-V_5\60227-V_5\obj\Debug\netcoreapp3.1\_60227_V_5.KS_60227_form1.resources

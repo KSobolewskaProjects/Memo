@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Pliki\Memo\60227-V_5\60227-V_5\bin\Debug\netcoreapp3.1\Memo.exe
+C:\Users\user\Desktop\Pliki\Memo\60227-V_5\60227-V_5\bin\Debug\netcoreapp3.1\Memo.deps.json
+C:\Users\user\Desktop\Pliki\Memo\60227-V_5\60227-V_5\bin\Debug\netcoreapp3.1\Memo.runtimeconfig.json
+C:\Users\user\Desktop\Pliki\Memo\60227-V_5\60227-V_5\bin\Debug\netcoreapp3.1\Memo.runtimeconfig.dev.json
+C:\Users\user\Desktop\Pliki\Memo\60227-V_5\60227-V_5\bin\Debug\netcoreapp3.1\Memo.dll
+C:\Users\user\Desktop\Pliki\Memo\60227-V_5\60227-V_5\bin\Debug\netcoreapp3.1\Memo.pdb
+C:\Users\user\Desktop\Pliki\Memo\60227-V_5\60227-V_5\obj\Debug\netcoreapp3.1\_60227_V_5.Properties.Resources.resources
+C:\Users\user\Desktop\Pliki\Memo\60227-V_5\60227-V_5\obj\Debug\netcoreapp3.1\Memo.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Pliki\Memo\60227-V_5\60227-V_5\obj\Debug\netcoreapp3.1\Memo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Pliki\Memo\60227-V_5\60227-V_5\obj\Debug\netcoreapp3.1\Memo.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Pliki\Memo\60227-V_5\60227-V_5\obj\Debug\netcoreapp3.1\Memo.AssemblyInfo.cs
+C:\Users\user\Desktop\Pliki\Memo\60227-V_5\60227-V_5\obj\Debug\netcoreapp3.1\Memo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Pliki\Memo\60227-V_5\60227-V_5\obj\Debug\netcoreapp3.1\Memo.dll
+C:\Users\user\Desktop\Pliki\Memo\60227-V_5\60227-V_5\obj\Debug\netcoreapp3.1\Memo.pdb
+C:\Users\user\Desktop\Pliki\Memo\60227-V_5\60227-V_5\obj\Debug\netcoreapp3.1\Memo.genruntimeconfig.cache
+C:\Users\user\Desktop\Pliki\Memo\60227-V_5\60227-V_5\obj\Debug\netcoreapp3.1\Memo.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Pliki\Memo\60227-V_5\60227-V_5\obj\Debug\netcoreapp3.1\Memo.form1.resources
